@@ -1,4 +1,6 @@
 # Hemen-Yesek-App
+Dosyayı incelemek için zip dosyasını indirebilirsiniz.
+
 ' En Lezzetli Yemekler, Hemen Gelendir '
 İşte Karşınızda Hemen Yesek,zamanında yemek teslimatı için tek durağınız.
 
